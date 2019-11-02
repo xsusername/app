@@ -12,7 +12,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>https://github.com/xsusername/app/raw/master/wns.ipa</string>
+     <string>https://home.19035.cn/wns.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
